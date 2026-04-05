@@ -1,0 +1,7 @@
+polygon-api-client>=1.11.0
+pandas>=2.0
+numpy>=1.24
+backtrader>=1.9.78
+matplotlib>=3.7
+typer>=0.9
+pyyaml>=6.0
